@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Practice_puzzle\\Practice_puzzle\\Puzzle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D755FDD-7022-4302-86E3-C926568C42DD}|Puzzle\\Puzzle.csproj|d:\\practice_puzzle\\practice_puzzle\\puzzle\\puzzle\\puzzle_fragments.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3D755FDD-7022-4302-86E3-C926568C42DD}|Puzzle\\Puzzle.csproj|solutionrelative:puzzle\\puzzle_fragments.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D755FDD-7022-4302-86E3-C926568C42DD}|Puzzle\\Puzzle.csproj|d:\\practice_puzzle\\practice_puzzle\\puzzle\\puzzle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D755FDD-7022-4302-86E3-C926568C42DD}|Puzzle\\Puzzle.csproj|solutionrelative:puzzle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D755FDD-7022-4302-86E3-C926568C42DD}|Puzzle\\Puzzle.csproj|d:\\practice_puzzle\\practice_puzzle\\puzzle\\puzzle\\puzzle_fragments2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3D755FDD-7022-4302-86E3-C926568C42DD}|Puzzle\\Puzzle.csproj|solutionrelative:puzzle\\puzzle_fragments2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "puzzle_fragments2.txt",
+              "DocumentMoniker": "D:\\Practice_puzzle\\Practice_puzzle\\Puzzle\\Puzzle\\puzzle_fragments2.txt",
+              "RelativeDocumentMoniker": "Puzzle\\puzzle_fragments2.txt",
+              "ToolTip": "D:\\Practice_puzzle\\Practice_puzzle\\Puzzle\\Puzzle\\puzzle_fragments2.txt",
+              "RelativeToolTip": "Puzzle\\puzzle_fragments2.txt",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAcwIUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-31T11:54:35.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "puzzle_fragments.txt",
+              "DocumentMoniker": "D:\\Practice_puzzle\\Practice_puzzle\\Puzzle\\Puzzle\\puzzle_fragments.txt",
+              "RelativeDocumentMoniker": "Puzzle\\puzzle_fragments.txt",
+              "ToolTip": "D:\\Practice_puzzle\\Practice_puzzle\\Puzzle\\Puzzle\\puzzle_fragments.txt",
+              "RelativeToolTip": "Puzzle\\puzzle_fragments.txt",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAUwFgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-31T11:46:55.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Practice_puzzle\\Practice_puzzle\\Puzzle\\Puzzle\\Program.cs",
+              "RelativeDocumentMoniker": "Puzzle\\Program.cs",
+              "ToolTip": "D:\\Practice_puzzle\\Practice_puzzle\\Puzzle\\Puzzle\\Program.cs",
+              "RelativeToolTip": "Puzzle\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T11:45:55.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
